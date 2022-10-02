@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink:wght@700&display=swap');
+
+body{
+    background-size: cover;
+
+}
+
+.heading{
+    margin-top: 0;
+    width: 100%;
+    border-radius: 5px;
+    text-align: left;
+    font-family: 'Aref Ruqaa Ink', serif;
+
+}
+
+#instruction{
+    float: right;
+    margin-top: -30px;
+    font-size: 17px;
+}
+
+h2{
+    font-size: 28px;
+}
+
+#status, #play{
+    font-size: 18px;
+}
